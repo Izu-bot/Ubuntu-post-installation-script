@@ -50,6 +50,7 @@ flatpak install flathub com.spotify.Client
 flatpak install flathub org.libreoffice.LibreOffice
 flatpak install flathub org.gnome.Builder
 flatpak install flathub org.gnome.Calendar
+flatpak install flathub org.eclipse.Java
 check_return_code $?
 
 # Rust
